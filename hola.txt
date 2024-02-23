@@ -1,11 +1,11 @@
 holaaaa 
 muchaches
-<<<<<<< HEAD
-ahora si sirve 
-pero aun quiero cafe y pan y vino 
-=======
 quiero pan y café con leche 
 duhlihwleiaw
 efuihefiw
 fiowejfoiwje
->>>>>>> b5f88cd944028ae1dd86d50c3faf3821165a3102
+
+holaaaa 
+muchaches
+ahora si sirve 
+pero aun quiero cafe y pan y vino 
